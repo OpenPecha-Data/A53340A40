@@ -1,0 +1,19 @@
+segment_sources:
+  I9AFFB560:
+    type: origin_type
+    relation: translation
+    language: en
+  I93489BEA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ad2de61ea5964ef0b5a4e2d902d04c85:
+    I9AFFB560: 33b135c9472f4a07b9c1a86fbf257442
+    I93489BEA: 4aa6a6ec547c4c1fac7e7c57859c3b6a
+  bf2c84dd23b941539a0af66e7db130b3:
+    I9AFFB560: 3dff2df839d64adfa53109d4d3d96796
+    I93489BEA: 880f865787fc408ab23457b1f9e03926
+  9ead203d60924bd48e4d3be83e033f69:
+    I9AFFB560: 180e9053aa4246e09fca5becfa652f23
+    I93489BEA: f5b0c0d593b449c2bca27fe7b903c7d6
